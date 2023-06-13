@@ -5,7 +5,7 @@
     Console.WriteLine("Digite outro numero!");
     int b = int.Parse(Console.ReadLine());
     int result = a / b;
-    Console.WriteLine("O resultado é:"+result);
+    Console.WriteLine("O resultado e:"+result);
 }
 catch(Exception ex)
 {
